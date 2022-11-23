@@ -1,0 +1,18 @@
+[
+    {
+        "id": "download-app",
+        "label": "Download App",
+        "url": "/data/setup/ERA-Setup.zip",
+        "comment": "Do not change this link ID, because the ID will be used inside the app."
+    },
+    {
+        "id": "3",
+        "label": "Download Sample Data Sets",
+        "url": "https://drive.google.com/drive/folders/1wUuo0pLdWNTHIIazZ7oxWGHT7D0jZSrW?usp=sharing"
+    },
+    {
+        "id": "4",
+        "label": "Download Video Tutorial & Manual Book",
+        "url": "https://drive.google.com/drive/folders/12cux_XraXYXn_6bdOWumqDZPdIPH_hoh?usp=sharing"
+    }
+]

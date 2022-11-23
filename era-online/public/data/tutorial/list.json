@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Installation & SHP with population data",
+        "url": "data/tutorial/1. Population.mp4"
+    },
+    {
+        "label": "SHP data with separate csv population file",
+        "url": "data/tutorial/2. CSV Population.mp4"
+    },
+    {
+        "label": "Overlays Spatial Data",
+        "url": "data/tutorial/3. Overlays.mp4"
+    }
+]
