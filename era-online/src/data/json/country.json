@@ -1,0 +1,1064 @@
+[
+ {
+   "NAME": "Afghanistan",
+   "ISO_A3": "AFG",
+   "FORMAL": "Islamic State of Afghanistan",
+   "FID": 104
+ },
+ {
+   "NAME": "Albania",
+   "ISO_A3": "ALB",
+   "FORMAL": "Republic of Albania",
+   "FID": 126
+ },
+ {
+   "NAME": "Algeria",
+   "ISO_A3": "DZA",
+   "FORMAL": "People's Democratic Republic of Algeria",
+   "FID": 83
+ },
+ {
+   "NAME": "Angola",
+   "ISO_A3": "AGO",
+   "FORMAL": "People's Republic of Angola",
+   "FID": 75
+ },
+ {
+   "NAME": "Antarctica",
+   "ISO_A3": "ATA",
+   "FORMAL": "",
+   "FID": 160
+ },
+ {
+   "NAME": "Argentina",
+   "ISO_A3": "ARG",
+   "FORMAL": "Argentine Republic",
+   "FID": 10
+ },
+ {
+   "NAME": "Armenia",
+   "ISO_A3": "ARM",
+   "FORMAL": "Republic of Armenia",
+   "FID": 110
+ },
+ {
+   "NAME": "Australia",
+   "ISO_A3": "AUS",
+   "FORMAL": "Commonwealth of Australia",
+   "FID": 138
+ },
+ {
+   "NAME": "Austria",
+   "ISO_A3": "AUT",
+   "FORMAL": "Republic of Austria",
+   "FID": 115
+ },
+ {
+   "NAME": "Azerbaijan",
+   "ISO_A3": "AZE",
+   "FORMAL": "Republic of Azerbaijan",
+   "FID": 146
+ },
+ {
+   "NAME": "Bangladesh",
+   "ISO_A3": "BGD",
+   "FORMAL": "People's Republic of Bangladesh",
+   "FID": 100
+ },
+ {
+   "NAME": "Belarus",
+   "ISO_A3": "BLR",
+   "FORMAL": "Republic of Belarus",
+   "FID": 112
+ },
+ {
+   "NAME": "Belgium",
+   "ISO_A3": "BEL",
+   "FORMAL": "Kingdom of Belgium",
+   "FID": 130
+ },
+ {
+   "NAME": "Belize",
+   "ISO_A3": "BLZ",
+   "FORMAL": "Belize",
+   "FID": 40
+ },
+ {
+   "NAME": "Benin",
+   "ISO_A3": "BEN",
+   "FORMAL": "Republic of Benin",
+   "FID": 55
+ },
+ {
+   "NAME": "Bhutan",
+   "ISO_A3": "BTN",
+   "FORMAL": "Kingdom of Bhutan",
+   "FID": 101
+ },
+ {
+   "NAME": "Bolivia",
+   "ISO_A3": "BOL",
+   "FORMAL": "Plurinational State of Bolivia",
+   "FID": 31
+ },
+ {
+   "NAME": "Bosnia and Herzegovina",
+   "ISO_A3": "BIH",
+   "FORMAL": "Bosnia and Herzegovina",
+   "FID": 171
+ },
+ {
+   "NAME": "Botswana",
+   "ISO_A3": "BWA",
+   "FORMAL": "Republic of Botswana",
+   "FID": 50
+ },
+ {
+   "NAME": "Brazil",
+   "ISO_A3": "BRA",
+   "FORMAL": "Federative Republic of Brazil",
+   "FID": 30
+ },
+ {
+   "NAME": "Brunei",
+   "ISO_A3": "BRN",
+   "FORMAL": "Negara Brunei Darussalam",
+   "FID": 150
+ },
+ {
+   "NAME": "Bulgaria",
+   "ISO_A3": "BGR",
+   "FORMAL": "Republic of Bulgaria",
+   "FID": 123
+ },
+ {
+   "NAME": "Burkina Faso",
+   "ISO_A3": "BFA",
+   "FORMAL": "Burkina Faso",
+   "FID": 66
+ },
+ {
+   "NAME": "Burundi",
+   "ISO_A3": "BDI",
+   "FORMAL": "Republic of Burundi",
+   "FID": 76
+ },
+ {
+   "NAME": "Cambodia",
+   "ISO_A3": "KHM",
+   "FORMAL": "Kingdom of Cambodia",
+   "FID": 91
+ },
+ {
+   "NAME": "Cameroon",
+   "ISO_A3": "CMR",
+   "FORMAL": "Republic of Cameroon",
+   "FID": 58
+ },
+ {
+   "NAME": "Canada",
+   "ISO_A3": "CAN",
+   "FORMAL": "Canada",
+   "FID": 4
+ },
+ {
+   "NAME": "Central African Republic",
+   "ISO_A3": "CAF",
+   "FORMAL": "Central African Republic",
+   "FID": 67
+ },
+ {
+   "NAME": "Chad",
+   "ISO_A3": "TCD",
+   "FORMAL": "Republic of Chad",
+   "FID": 16
+ },
+ {
+   "NAME": "Chile",
+   "ISO_A3": "CHL",
+   "FORMAL": "Republic of Chile",
+   "FID": 11
+ },
+ {
+   "NAME": "China",
+   "ISO_A3": "CHN",
+   "FORMAL": "People's Republic of China",
+   "FID": 140
+ },
+ {
+   "NAME": "Colombia",
+   "ISO_A3": "COL",
+   "FORMAL": "Republic of Colombia",
+   "FID": 33
+ },
+ {
+   "NAME": "Costa Rica",
+   "ISO_A3": "CRI",
+   "FORMAL": "Republic of Costa Rica",
+   "FID": 35
+ },
+ {
+   "NAME": "Croatia",
+   "ISO_A3": "HRV",
+   "FORMAL": "Republic of Croatia",
+   "FID": 127
+ },
+ {
+   "NAME": "Cuba",
+   "ISO_A3": "CUB",
+   "FORMAL": "Republic of Cuba",
+   "FID": 48
+ },
+ {
+   "NAME": "Cyprus",
+   "ISO_A3": "CYP",
+   "FORMAL": "Republic of Cyprus",
+   "FID": 162
+ },
+ {
+   "NAME": "Czechia",
+   "ISO_A3": "CZE",
+   "FORMAL": "Czech Republic",
+   "FID": 154
+ },
+ {
+   "NAME": "Democratic Republic of the Congo",
+   "ISO_A3": "COD",
+   "FORMAL": "Democratic Republic of the Congo",
+   "FID": 12
+ },
+ {
+   "NAME": "Denmark",
+   "ISO_A3": "DNK",
+   "FORMAL": "Kingdom of Denmark",
+   "FID": 143
+ },
+ {
+   "NAME": "Djibouti",
+   "ISO_A3": "DJI",
+   "FORMAL": "Republic of Djibouti",
+   "FID": 167
+ },
+ {
+   "NAME": "Dominican Republic",
+   "ISO_A3": "DOM",
+   "FORMAL": "Dominican Republic",
+   "FID": 18
+ },
+ {
+   "NAME": "East Timor",
+   "ISO_A3": "TLS",
+   "FORMAL": "Democratic Republic of Timor-Leste",
+   "FID": 25
+ },
+ {
+   "NAME": "Ecuador",
+   "ISO_A3": "ECU",
+   "FORMAL": "Republic of Ecuador",
+   "FID": 45
+ },
+ {
+   "NAME": "Egypt",
+   "ISO_A3": "EGY",
+   "FORMAL": "Arab Republic of Egypt",
+   "FID": 164
+ },
+ {
+   "NAME": "El Salvador",
+   "ISO_A3": "SLV",
+   "FORMAL": "Republic of El Salvador",
+   "FID": 38
+ },
+ {
+   "NAME": "Equatorial Guinea",
+   "ISO_A3": "GNQ",
+   "FORMAL": "Republic of Equatorial Guinea",
+   "FID": 70
+ },
+ {
+   "NAME": "Eritrea",
+   "ISO_A3": "ERI",
+   "FORMAL": "State of Eritrea",
+   "FID": 155
+ },
+ {
+   "NAME": "Estonia",
+   "ISO_A3": "EST",
+   "FORMAL": "Republic of Estonia",
+   "FID": 121
+ },
+ {
+   "NAME": "eSwatini",
+   "ISO_A3": "SWZ",
+   "FORMAL": "Kingdom of eSwatini",
+   "FID": 74
+ },
+ {
+   "NAME": "Ethiopia",
+   "ISO_A3": "ETH",
+   "FORMAL": "Federal Democratic Republic of Ethiopia",
+   "FID": 166
+ },
+ {
+   "NAME": "Falkland Islands",
+   "ISO_A3": "FLK",
+   "FORMAL": "Falkland Islands",
+   "FID": 21
+ },
+ {
+   "NAME": "Fiji",
+   "ISO_A3": "FJI",
+   "FORMAL": "Republic of Fiji",
+   "FID": 1
+ },
+ {
+   "NAME": "Finland",
+   "ISO_A3": "FIN",
+   "FORMAL": "Republic of Finland",
+   "FID": 152
+ },
+ {
+   "NAME": "France",
+   "ISO_A3": "FRA",
+   "FORMAL": "French Republic",
+   "FID": 44
+ },
+ {
+   "NAME": "French Southern and Antarctic Lands",
+   "ISO_A3": "ATF",
+   "FORMAL": "Territory of the French Southern and Antarctic Lands",
+   "FID": 24
+ },
+ {
+   "NAME": "Gabon",
+   "ISO_A3": "GAB",
+   "FORMAL": "Gabonese Republic",
+   "FID": 69
+ },
+ {
+   "NAME": "Gambia",
+   "ISO_A3": "GMB",
+   "FORMAL": "Republic of the Gambia",
+   "FID": 81
+ },
+ {
+   "NAME": "Georgia",
+   "ISO_A3": "GEO",
+   "FORMAL": "Georgia",
+   "FID": 147
+ },
+ {
+   "NAME": "Germany",
+   "ISO_A3": "DEU",
+   "FORMAL": "Federal Republic of Germany",
+   "FID": 122
+ },
+ {
+   "NAME": "Ghana",
+   "ISO_A3": "GHA",
+   "FORMAL": "Republic of Ghana",
+   "FID": 60
+ },
+ {
+   "NAME": "Greece",
+   "ISO_A3": "GRC",
+   "FORMAL": "Hellenic Republic",
+   "FID": 124
+ },
+ {
+   "NAME": "Greenland",
+   "ISO_A3": "GRL",
+   "FORMAL": "Greenland",
+   "FID": 23
+ },
+ {
+   "NAME": "Guatemala",
+   "ISO_A3": "GTM",
+   "FORMAL": "Republic of Guatemala",
+   "FID": 39
+ },
+ {
+   "NAME": "Guinea",
+   "ISO_A3": "GIN",
+   "FORMAL": "Republic of Guinea",
+   "FID": 62
+ },
+ {
+   "NAME": "Guinea-Bissau",
+   "ISO_A3": "GNB",
+   "FORMAL": "Republic of Guinea-Bissau",
+   "FID": 63
+ },
+ {
+   "NAME": "Guyana",
+   "ISO_A3": "GUY",
+   "FORMAL": "Co-operative Republic of Guyana",
+   "FID": 42
+ },
+ {
+   "NAME": "Haiti",
+   "ISO_A3": "HTI",
+   "FORMAL": "Republic of Haiti",
+   "FID": 17
+ },
+ {
+   "NAME": "Honduras",
+   "ISO_A3": "HND",
+   "FORMAL": "Republic of Honduras",
+   "FID": 37
+ },
+ {
+   "NAME": "Hungary",
+   "ISO_A3": "HUN",
+   "FORMAL": "Republic of Hungary",
+   "FID": 116
+ },
+ {
+   "NAME": "Iceland",
+   "ISO_A3": "ISL",
+   "FORMAL": "Republic of Iceland",
+   "FID": 145
+ },
+ {
+   "NAME": "India",
+   "ISO_A3": "IND",
+   "FORMAL": "Republic of India",
+   "FID": 99
+ },
+ {
+   "NAME": "Indonesia",
+   "ISO_A3": "IDN",
+   "FORMAL": "Republic of Indonesia",
+   "FID": 9
+ },
+ {
+   "NAME": "Iran",
+   "ISO_A3": "IRN",
+   "FORMAL": "Islamic Republic of Iran",
+   "FID": 108
+ },
+ {
+   "NAME": "Iraq",
+   "ISO_A3": "IRQ",
+   "FORMAL": "Republic of Iraq",
+   "FID": 88
+ },
+ {
+   "NAME": "Ireland",
+   "ISO_A3": "IRL",
+   "FORMAL": "Ireland",
+   "FID": 134
+ },
+ {
+   "NAME": "Israel",
+   "ISO_A3": "ISR",
+   "FORMAL": "State of Israel",
+   "FID": 77
+ },
+ {
+   "NAME": "Italy",
+   "ISO_A3": "ITA",
+   "FORMAL": "Italian Republic",
+   "FID": 142
+ },
+ {
+   "NAME": "Ivory Coast",
+   "ISO_A3": "CIV",
+   "FORMAL": "Republic of Ivory Coast",
+   "FID": 61
+ },
+ {
+   "NAME": "Jamaica",
+   "ISO_A3": "JAM",
+   "FORMAL": "Jamaica",
+   "FID": 47
+ },
+ {
+   "NAME": "Japan",
+   "ISO_A3": "JPN",
+   "FORMAL": "Japan",
+   "FID": 156
+ },
+ {
+   "NAME": "Jordan",
+   "ISO_A3": "JOR",
+   "FORMAL": "Hashemite Kingdom of Jordan",
+   "FID": 84
+ },
+ {
+   "NAME": "Kazakhstan",
+   "ISO_A3": "KAZ",
+   "FORMAL": "Republic of Kazakhstan",
+   "FID": 6
+ },
+ {
+   "NAME": "Kenya",
+   "ISO_A3": "KEN",
+   "FORMAL": "Republic of Kenya",
+   "FID": 14
+ },
+ {
+   "NAME": "Kosovo",
+   "ISO_A3": "KOS",
+   "FORMAL": "Republic of Kosovo",
+   "FID": 175
+ },
+ {
+   "NAME": "Kuwait",
+   "ISO_A3": "KWT",
+   "FORMAL": "State of Kuwait",
+   "FID": 87
+ },
+ {
+   "NAME": "Kyrgyzstan",
+   "ISO_A3": "KGZ",
+   "FORMAL": "Kyrgyz Republic",
+   "FID": 106
+ },
+ {
+   "NAME": "Laos",
+   "ISO_A3": "LAO",
+   "FORMAL": "Lao People's Democratic Republic",
+   "FID": 93
+ },
+ {
+   "NAME": "Latvia",
+   "ISO_A3": "LVA",
+   "FORMAL": "Republic of Latvia",
+   "FID": 120
+ },
+ {
+   "NAME": "Lebanon",
+   "ISO_A3": "LBN",
+   "FORMAL": "Lebanese Republic",
+   "FID": 78
+ },
+ {
+   "NAME": "Lesotho",
+   "ISO_A3": "LSO",
+   "FORMAL": "Kingdom of Lesotho",
+   "FID": 27
+ },
+ {
+   "NAME": "Liberia",
+   "ISO_A3": "LBR",
+   "FORMAL": "Republic of Liberia",
+   "FID": 64
+ },
+ {
+   "NAME": "Libya",
+   "ISO_A3": "LBY",
+   "FORMAL": "Libya",
+   "FID": 165
+ },
+ {
+   "NAME": "Lithuania",
+   "ISO_A3": "LTU",
+   "FORMAL": "Republic of Lithuania",
+   "FID": 119
+ },
+ {
+   "NAME": "Luxembourg",
+   "ISO_A3": "LUX",
+   "FORMAL": "Grand Duchy of Luxembourg",
+   "FID": 129
+ },
+ {
+   "NAME": "Macedonia",
+   "ISO_A3": "MKD",
+   "FORMAL": "Former Yugoslav Republic of Macedonia",
+   "FID": 172
+ },
+ {
+   "NAME": "Madagascar",
+   "ISO_A3": "MDG",
+   "FORMAL": "Republic of Madagascar",
+   "FID": 79
+ },
+ {
+   "NAME": "Malawi",
+   "ISO_A3": "MWI",
+   "FORMAL": "Republic of Malawi",
+   "FID": 72
+ },
+ {
+   "NAME": "Malaysia",
+   "ISO_A3": "MYS",
+   "FORMAL": "Malaysia",
+   "FID": 149
+ },
+ {
+   "NAME": "Mali",
+   "ISO_A3": "MLI",
+   "FORMAL": "Republic of Mali",
+   "FID": 53
+ },
+ {
+   "NAME": "Mauritania",
+   "ISO_A3": "MRT",
+   "FORMAL": "Islamic Republic of Mauritania",
+   "FID": 54
+ },
+ {
+   "NAME": "Mexico",
+   "ISO_A3": "MEX",
+   "FORMAL": "United Mexican States",
+   "FID": 28
+ },
+ {
+   "NAME": "Moldova",
+   "ISO_A3": "MDA",
+   "FORMAL": "Republic of Moldova",
+   "FID": 117
+ },
+ {
+   "NAME": "Mongolia",
+   "ISO_A3": "MNG",
+   "FORMAL": "Mongolia",
+   "FID": 98
+ },
+ {
+   "NAME": "Montenegro",
+   "ISO_A3": "MNE",
+   "FORMAL": "Montenegro",
+   "FID": 174
+ },
+ {
+   "NAME": "Morocco",
+   "ISO_A3": "MAR",
+   "FORMAL": "Kingdom of Morocco",
+   "FID": 163
+ },
+ {
+   "NAME": "Mozambique",
+   "ISO_A3": "MOZ",
+   "FORMAL": "Republic of Mozambique",
+   "FID": 73
+ },
+ {
+   "NAME": "Myanmar",
+   "ISO_A3": "MMR",
+   "FORMAL": "Republic of the Union of Myanmar",
+   "FID": 94
+ },
+ {
+   "NAME": "Namibia",
+   "ISO_A3": "NAM",
+   "FORMAL": "Republic of Namibia",
+   "FID": 51
+ },
+ {
+   "NAME": "Nepal",
+   "ISO_A3": "NPL",
+   "FORMAL": "Nepal",
+   "FID": 102
+ },
+ {
+   "NAME": "Netherlands",
+   "ISO_A3": "NLD",
+   "FORMAL": "Kingdom of the Netherlands",
+   "FID": 131
+ },
+ {
+   "NAME": "New Caledonia",
+   "ISO_A3": "NCL",
+   "FORMAL": "New Caledonia",
+   "FID": 135
+ },
+ {
+   "NAME": "New Zealand",
+   "ISO_A3": "NZL",
+   "FORMAL": "New Zealand",
+   "FID": 137
+ },
+ {
+   "NAME": "Nicaragua",
+   "ISO_A3": "NIC",
+   "FORMAL": "Republic of Nicaragua",
+   "FID": 36
+ },
+ {
+   "NAME": "Niger",
+   "ISO_A3": "NER",
+   "FORMAL": "Republic of Niger",
+   "FID": 56
+ },
+ {
+   "NAME": "Nigeria",
+   "ISO_A3": "NGA",
+   "FORMAL": "Federal Republic of Nigeria",
+   "FID": 57
+ },
+ {
+   "NAME": "North Korea",
+   "ISO_A3": "PRK",
+   "FORMAL": "Democratic People's Republic of Korea",
+   "FID": 96
+ },
+ {
+   "NAME": "Northern Cyprus",
+   "ISO_A3": "CYN",
+   "FORMAL": "Turkish Republic of Northern Cyprus",
+   "FID": 161
+ },
+ {
+   "NAME": "Norway",
+   "ISO_A3": "NOR",
+   "FORMAL": "Kingdom of Norway",
+   "FID": 22
+ },
+ {
+   "NAME": "Oman",
+   "ISO_A3": "OMN",
+   "FORMAL": "Sultanate of Oman",
+   "FID": 89
+ },
+ {
+   "NAME": "Pakistan",
+   "ISO_A3": "PAK",
+   "FORMAL": "Islamic Republic of Pakistan",
+   "FID": 103
+ },
+ {
+   "NAME": "Palestine",
+   "ISO_A3": "PSX",
+   "FORMAL": "West Bank and Gaza",
+   "FID": 80
+ },
+ {
+   "NAME": "Panama",
+   "ISO_A3": "PAN",
+   "FORMAL": "Republic of Panama",
+   "FID": 34
+ },
+ {
+   "NAME": "Papua New Guinea",
+   "ISO_A3": "PNG",
+   "FORMAL": "Independent State of Papua New Guinea",
+   "FID": 8
+ },
+ {
+   "NAME": "Paraguay",
+   "ISO_A3": "PRY",
+   "FORMAL": "Republic of Paraguay",
+   "FID": 157
+ },
+ {
+   "NAME": "Peru",
+   "ISO_A3": "PER",
+   "FORMAL": "Republic of Peru",
+   "FID": 32
+ },
+ {
+   "NAME": "Philippines",
+   "ISO_A3": "PHL",
+   "FORMAL": "Republic of the Philippines",
+   "FID": 148
+ },
+ {
+   "NAME": "Poland",
+   "ISO_A3": "POL",
+   "FORMAL": "Republic of Poland",
+   "FID": 114
+ },
+ {
+   "NAME": "Portugal",
+   "ISO_A3": "PRT",
+   "FORMAL": "Portuguese Republic",
+   "FID": 132
+ },
+ {
+   "NAME": "Puerto Rico",
+   "ISO_A3": "PRI",
+   "FORMAL": "Commonwealth of Puerto Rico",
+   "FID": 46
+ },
+ {
+   "NAME": "Qatar",
+   "ISO_A3": "QAT",
+   "FORMAL": "State of Qatar",
+   "FID": 86
+ },
+ {
+   "NAME": "Republic of Serbia",
+   "ISO_A3": "SRB",
+   "FORMAL": "Republic of Serbia",
+   "FID": 173
+ },
+ {
+   "NAME": "Republic of the Congo",
+   "ISO_A3": "COG",
+   "FORMAL": "Republic of the Congo",
+   "FID": 68
+ },
+ {
+   "NAME": "Romania",
+   "ISO_A3": "ROU",
+   "FORMAL": "Romania",
+   "FID": 118
+ },
+ {
+   "NAME": "Russia",
+   "ISO_A3": "RUS",
+   "FORMAL": "Russian Federation",
+   "FID": 19
+ },
+ {
+   "NAME": "Rwanda",
+   "ISO_A3": "RWA",
+   "FORMAL": "Republic of Rwanda",
+   "FID": 170
+ },
+ {
+   "NAME": "Saudi Arabia",
+   "ISO_A3": "SAU",
+   "FORMAL": "Kingdom of Saudi Arabia",
+   "FID": 159
+ },
+ {
+   "NAME": "Senegal",
+   "ISO_A3": "SEN",
+   "FORMAL": "Republic of Senegal",
+   "FID": 52
+ },
+ {
+   "NAME": "Sierra Leone",
+   "ISO_A3": "SLE",
+   "FORMAL": "Republic of Sierra Leone",
+   "FID": 65
+ },
+ {
+   "NAME": "Slovakia",
+   "ISO_A3": "SVK",
+   "FORMAL": "Slovak Republic",
+   "FID": 153
+ },
+ {
+   "NAME": "Slovenia",
+   "ISO_A3": "SVN",
+   "FORMAL": "Republic of Slovenia",
+   "FID": 151
+ },
+ {
+   "NAME": "Solomon Islands",
+   "ISO_A3": "SLB",
+   "FORMAL": "",
+   "FID": 136
+ },
+ {
+   "NAME": "Somalia",
+   "ISO_A3": "SOM",
+   "FORMAL": "Federal Republic of Somalia",
+   "FID": 13
+ },
+ {
+   "NAME": "Somaliland",
+   "ISO_A3": "SOL",
+   "FORMAL": "Republic of Somaliland",
+   "FID": 168
+ },
+ {
+   "NAME": "South Africa",
+   "ISO_A3": "ZAF",
+   "FORMAL": "Republic of South Africa",
+   "FID": 26
+ },
+ {
+   "NAME": "South Korea",
+   "ISO_A3": "KOR",
+   "FORMAL": "Republic of Korea",
+   "FID": 97
+ },
+ {
+   "NAME": "South Sudan",
+   "ISO_A3": "SDS",
+   "FORMAL": "Republic of South Sudan",
+   "FID": 177
+ },
+ {
+   "NAME": "Spain",
+   "ISO_A3": "ESP",
+   "FORMAL": "Kingdom of Spain",
+   "FID": 133
+ },
+ {
+   "NAME": "Sri Lanka",
+   "ISO_A3": "LKA",
+   "FORMAL": "Democratic Socialist Republic of Sri Lanka",
+   "FID": 139
+ },
+ {
+   "NAME": "Sudan",
+   "ISO_A3": "SDN",
+   "FORMAL": "Republic of the Sudan",
+   "FID": 15
+ },
+ {
+   "NAME": "Suriname",
+   "ISO_A3": "SUR",
+   "FORMAL": "Republic of Suriname",
+   "FID": 43
+ },
+ {
+   "NAME": "Sweden",
+   "ISO_A3": "SWE",
+   "FORMAL": "Kingdom of Sweden",
+   "FID": 111
+ },
+ {
+   "NAME": "Switzerland",
+   "ISO_A3": "CHE",
+   "FORMAL": "Swiss Confederation",
+   "FID": 128
+ },
+ {
+   "NAME": "Syria",
+   "ISO_A3": "SYR",
+   "FORMAL": "Syrian Arab Republic",
+   "FID": 109
+ },
+ {
+   "NAME": "Taiwan",
+   "ISO_A3": "TWN",
+   "FORMAL": "",
+   "FID": 141
+ },
+ {
+   "NAME": "Tajikistan",
+   "ISO_A3": "TJK",
+   "FORMAL": "Republic of Tajikistan",
+   "FID": 105
+ },
+ {
+   "NAME": "Thailand",
+   "ISO_A3": "THA",
+   "FORMAL": "Kingdom of Thailand",
+   "FID": 92
+ },
+ {
+   "NAME": "The Bahamas",
+   "ISO_A3": "BHS",
+   "FORMAL": "Commonwealth of the Bahamas",
+   "FID": 20
+ },
+ {
+   "NAME": "Togo",
+   "ISO_A3": "TGO",
+   "FORMAL": "Togolese Republic",
+   "FID": 59
+ },
+ {
+   "NAME": "Trinidad and Tobago",
+   "ISO_A3": "TTO",
+   "FORMAL": "Republic of Trinidad and Tobago",
+   "FID": 176
+ },
+ {
+   "NAME": "Tunisia",
+   "ISO_A3": "TUN",
+   "FORMAL": "Republic of Tunisia",
+   "FID": 82
+ },
+ {
+   "NAME": "Turkey",
+   "ISO_A3": "TUR",
+   "FORMAL": "Republic of Turkey",
+   "FID": 125
+ },
+ {
+   "NAME": "Turkmenistan",
+   "ISO_A3": "TKM",
+   "FORMAL": "Turkmenistan",
+   "FID": 107
+ },
+ {
+   "NAME": "Uganda",
+   "ISO_A3": "UGA",
+   "FORMAL": "Republic of Uganda",
+   "FID": 169
+ },
+ {
+   "NAME": "Ukraine",
+   "ISO_A3": "UKR",
+   "FORMAL": "Ukraine",
+   "FID": 113
+ },
+ {
+   "NAME": "United Arab Emirates",
+   "ISO_A3": "ARE",
+   "FORMAL": "United Arab Emirates",
+   "FID": 85
+ },
+ {
+   "NAME": "United Kingdom",
+   "ISO_A3": "GBR",
+   "FORMAL": "United Kingdom of Great Britain and Northern Ireland",
+   "FID": 144
+ },
+ {
+   "NAME": "United Republic of Tanzania",
+   "ISO_A3": "TZA",
+   "FORMAL": "United Republic of Tanzania",
+   "FID": 2
+ },
+ {
+   "NAME": "United States of America",
+   "ISO_A3": "USA",
+   "FORMAL": "United States of America",
+   "FID": 5
+ },
+ {
+   "NAME": "Uruguay",
+   "ISO_A3": "URY",
+   "FORMAL": "Oriental Republic of Uruguay",
+   "FID": 29
+ },
+ {
+   "NAME": "Uzbekistan",
+   "ISO_A3": "UZB",
+   "FORMAL": "Republic of Uzbekistan",
+   "FID": 7
+ },
+ {
+   "NAME": "Vanuatu",
+   "ISO_A3": "VUT",
+   "FORMAL": "Republic of Vanuatu",
+   "FID": 90
+ },
+ {
+   "NAME": "Venezuela",
+   "ISO_A3": "VEN",
+   "FORMAL": "Bolivarian Republic of Venezuela",
+   "FID": 41
+ },
+ {
+   "NAME": "Vietnam",
+   "ISO_A3": "VNM",
+   "FORMAL": "Socialist Republic of Vietnam",
+   "FID": 95
+ },
+ {
+   "NAME": "Western Sahara",
+   "ISO_A3": "SAH",
+   "FORMAL": "Sahrawi Arab Democratic Republic",
+   "FID": 3
+ },
+ {
+   "NAME": "Yemen",
+   "ISO_A3": "YEM",
+   "FORMAL": "Republic of Yemen",
+   "FID": 158
+ },
+ {
+   "NAME": "Zambia",
+   "ISO_A3": "ZMB",
+   "FORMAL": "Republic of Zambia",
+   "FID": 71
+ },
+ {
+   "NAME": "Zimbabwe",
+   "ISO_A3": "ZWE",
+   "FORMAL": "Republic of Zimbabwe",
+   "FID": 49
+ }
+]
